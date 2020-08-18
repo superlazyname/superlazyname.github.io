@@ -1,3 +1,7 @@
+layout: page
+title: "My Title"
+permalink: /Testing
+
 # Here's a title
 
 Here's some code
